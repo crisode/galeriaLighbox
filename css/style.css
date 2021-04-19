@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+    background-image: linear-gradient(135deg,#fdfcfb 0%,#ba5503 100%);
+}
+.titulo{
+    font-size: 35px;
+    text-transform:  uppercase;
+    letter-spacing: 7px;
+    text-align: center;
+}
+.galeria img{
+    box-shadow: 0 8px 10px -4px rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.materialbox-caption{
+   background-color:  rgba(0, 0, 0, 0.6);
+    bottom: 50px;
+    right: 0;
+    font-size: 20px;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+ 
+}

@@ -1,0 +1,6 @@
+// se uso https://materializecss.com/
+
+
+col sX  => col s12 igual a col-12 de bootstrap
+col mX
+‘‘‘
